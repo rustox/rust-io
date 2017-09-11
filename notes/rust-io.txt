@@ -1,0 +1,18 @@
+The design and re-design and re-design of IO in Rust.
+https://github.com/nox/rust-rfcs/blob/master/text/0517-io-os-reform.md
+
+experimental RFC. add 'Co-routines' to Rust
+https://github.com/rust-lang/rfcs/pull/2033
+
+Async IO issue tracked on Rust. Interesting discussion
+https://github.com/rust-lang/rfcs/issues/1081
+
+Asynchronous I/O in Rust.
+https://blog.skcript.com/asynchronous-io-in-rust-36b623e7b965
+
+Metal IO (mio) library has changed a lot
+https://www.reddit.com/r/rust/comments/50srx0/mio_api_has_changed_substantially/
+
+tokio_core depends on MIO core
+https://docs.rs/tokio-core/0.1.9/tokio_core/
+
